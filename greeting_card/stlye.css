@@ -1,0 +1,28 @@
+@import url('https://fonts.googleapis.com/css2?family=Lobster+Two:ital,wght@0,400;0,700;1,400;1,700&display=swap');
+body{
+    font-family:Lobster Two;
+    background: orange;
+    display:grid;
+    place-items: center;
+    height:100vh;
+    margin: 0 ;
+.card{
+    background-color: rgb(225,128,0);
+    border-radius: 50px;
+    height:85vh;
+    width:150vh;
+    display: flex;
+    align-items: center;
+    justify-content: space-between;
+    padding:1em;
+    text-align: center;
+
+}
+.text{
+    width:45%;
+    padding:1em;
+    color: white;
+
+    }
+
+}
