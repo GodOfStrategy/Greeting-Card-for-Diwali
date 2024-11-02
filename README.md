@@ -1,3 +1,3 @@
 # Greeting-Card-for-Diwali
 
-Use the HTML file and CSS file in one folder and open using desirable folder.
+Use the HTML file and CSS file in one folder and open using desirable Browser.
